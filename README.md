@@ -3,7 +3,7 @@
 A 3D projection and texture painting plugin for **Krita**, designed for game artists, texture artists, and digital painters who want to work directly on 3D models without leaving Krita.
 
 **Krita 3D Mesh Painter** adds a hardware-accelerated 3D viewport directly inside Krita, allowing you to load 3D models, paint on them with a digital tablet, project 2D artwork onto UV textures, edit base textures, and export the resulting texture maps.
-
+[![Krita 3D Mesh Painter - Demo](https://img.youtube.com/vi/1n_KJqrgxhw/maxresdefault.jpg)](https://youtu.be/1n_KJqrgxhw)
 [**Buy / Get Krita 3D Mesh Painter**](https://tijerinart.itch.io/krita-3d-projection-painter)
 
 ---
